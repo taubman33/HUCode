@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.1120" tests="0" failures="1">
+  <testsuite name="Root Suite" timestamp="2021-05-17T16:46:55" tests="0" time="5.1120" failures="1">
+    <testcase name=" task_01__IndexPage_UI - Retrieve information from the server by making a remote HTTP call. Display the retrieved JSON records on HTML page." time="5.1120" classname="task_01__IndexPage_UI - Retrieve information from the server by making a remote HTTP call. Display the retrieved JSON records on HTML page.">
+      <failure message="expected &apos;\n\n  \n  \n      \n  \n\n  \n  \n    \n    \n      \n        \n          \n            id\n          \n          \n            \n          \n          \n         \n          \n          \n        \n          \n          \n            Modified On\n          \n        \n       \n      \n      \n        \n          \n          \n          \n          \n          \n        \n        \n        \n          \n          \n          \n          \n          \n        \n      \n    \n    \n   \n\n  \n  \n\n  \n  \n    \n      Copyright © www.justcode.com\n    \n    \n  \n\n  \n  \n  \n\n  \n  \n\n\n\n&apos; to contain one of [ &apos;The Beatles&apos; ]" type="AssertionError"><![CDATA[AssertionError: expected '\n\n  \n  \n      \n  \n\n  \n  \n    \n    \n      \n        \n          \n            id\n          \n          \n            \n          \n          \n         \n          \n          \n        \n          \n          \n            Modified On\n          \n        \n       \n      \n      \n        \n          \n          \n          \n          \n          \n        \n        \n        \n          \n          \n          \n          \n          \n        \n      \n    \n    \n   \n\n  \n  \n\n  \n  \n    \n      Copyright © www.justcode.com\n    \n    \n  \n\n  \n  \n  \n\n  \n  \n\n\n\n' to contain one of [ 'The Beatles' ]
+    at Timeout._onTimeout (test/test.js:15:45)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
